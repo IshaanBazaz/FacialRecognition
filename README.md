@@ -1,1 +1,1 @@
-# FacialRecognition
+Face Recognition problem is a type of supervised machine learning problem since it has well defined labels. It can be solved using classification algorithms as the labels are categorical and not continuous. The first step is apply PCA to reduce the number of dimensions. The next step is to split the data into training and testing dataset. Build your model on the training dataset and then test your model performance with the the testing (unseen) dataset. Then we apply diferent models and choose the best model.
